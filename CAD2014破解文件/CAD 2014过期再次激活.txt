@@ -1,0 +1,9 @@
+AutoCAD2014 激活许可过期
+win7及以上系统重新激活方法：
+退出应用
+在C盘中找到隐藏文件夹
+C:\ProgramData\FLEXnet
+删除以下2个文件
+adskflex_00691b00_tsf.data
+adskflex_00691b00_tsf.data_backup.001 
+启动应用，注册机重新激活。
